@@ -1,0 +1,158 @@
+body {
+  padding-top: 55px;
+  font-family: 'Roboto', serif;
+  color: #050505;
+  background-color: #FDFFFC;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+a {
+  color: #3066BE;
+}
+
+a:hover {
+  color: #3066BE;
+}
+
+.navbar-light {
+  background-color: #FDFFFC;
+  border-top: solid #050505 2px;
+  border-bottom: solid #050505 1px;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.container {
+  padding-right:3%;
+  padding-left:3%;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.jumbotron-main-header {
+  background-image: url("media/teal_profile.png");
+  background-size: cover;
+  background-position: 65% 40%;
+  padding: 10%;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #FDFFFC;
+  border-bottom: solid #050505 1px;
+}
+
+.jumbotron-text {
+  width: 65%;
+  color: #FDFFFC;
+}
+
+.page-name-title {
+  color: #EB6424;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.about-panel {
+  margin-top: 2%;
+  margin-bottom: 6%;
+}
+
+.portfolio-panel {
+  margin-top: 2%;
+  margin-bottom: 6%;
+}
+
+.project-description{
+    padding-right: 5%;
+}
+
+.project-image {
+  /* padding-left: 5%; */
+}
+
+.color-emphasis {
+  color: #5E807F;
+}
+
+footer {
+  background-color: #B4B4B4;
+  color: #FDFFFC;
+}
+
+@media (max-width: 576px) {
+  .jumbotron-text h1 {
+    font-size: 35px;
+  }
+
+  .jumbotron-text h3 {
+    font-size: 20px;
+  }
+ }
+
+
+
+/* .page-title {
+  padding: 12%;
+} */
+
+/* .container {
+  padding: 30px;
+} */
+
+/* .jumbotron {
+  padding-left: 12%;
+  padding-bottom: 0%;
+  padding-top: 2%;
+  background-color: white;
+  color: #EB6424;
+} */
+
+
+
+
+
+/*
+.headline-text h3 {
+  font-size: 1rem;
+} */
+
+
+
+
+
+/* Small (sm) devices (landscape phones, 576px and up) */
+/* @media (min-width: 576px) {
+
+  .headline-text h1 {
+    margin-bottom: 5%;
+    font-size: 2.5rem;
+  }
+
+  .headline-text h3 {
+    font-size: 1.5rem;
+  }
+} */
+
+
+
+
+/* Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {} */
