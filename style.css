@@ -69,7 +69,7 @@ a:hover {
 }
 
 .project-description{
-    padding-right: 5%;
+  padding-right: 5%;
 }
 
 .project-image {
@@ -80,6 +80,16 @@ a:hover {
   color: #5E807F;
 }
 
+.research-panel {
+  margin-top: 2%;
+  margin-bottom: 6%;
+}
+
+.publication-header {
+  color: #050505;
+  text-decoration: underline;
+}
+
 footer {
   background-color: #B4B4B4;
   color: #FDFFFC;
@@ -87,11 +97,11 @@ footer {
 
 @media (max-width: 576px) {
   .jumbotron-text h1 {
-    font-size: 35px;
+    font-size: 25px;
   }
 
   .jumbotron-text h3 {
-    font-size: 20px;
+    font-size: 15px;
   }
  }
 
