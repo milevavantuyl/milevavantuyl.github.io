@@ -3,7 +3,7 @@ body {
   font-family: 'Roboto', serif;
   color: #050505;
   background-color: #FDFFFC;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   line-height: 1.5;
 }
 
@@ -93,6 +93,7 @@ a:hover {
 footer {
   background-color: #B4B4B4;
   color: #FDFFFC;
+  font-size: 1.15rem;
 }
 
 @media (max-width: 576px) {
