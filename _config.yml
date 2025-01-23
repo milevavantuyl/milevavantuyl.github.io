@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Mileva Van Tuyl 
+logo: "/assets/img/headshot.png?raw=true" 
+description: > 
+  Senior Software Engineer @ ADI
   <br><br>
-  Second description 
+  M.S. Data Science
+  <br>
+  B.A. Computer Science
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Engineer, problem solver, and tech enthusiast with industry experience at the intersection of
+  software and machine learning. Passionate about building data-driven solutions. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/mileva-van-tuyl/">LinkedIn Profile</a> | <a href="https://github.com/milevavantuyl/">GitHub Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
